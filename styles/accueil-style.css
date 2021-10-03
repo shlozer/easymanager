@@ -1,0 +1,38 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+
+h2{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(48, 47, 47); 
+    margin: auto;
+}
+
+.formulaire_entree{
+    text-align: center;
+    color: rgb(48, 47, 47);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+#milieu_page{
+    min-height: 500px;
+}
+#partie_texte{
+    margin-top: 90px;
+}
+fieldset{
+    margin: auto;
+    width: 350px;
+}
+#bouton_valider{
+    position: relative;
+    left: 20px;
+    
+}

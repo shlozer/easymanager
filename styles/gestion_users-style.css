@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+form{
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+fieldset{
+    width: fit-content;
+}
+#partie_centrale{
+    display: flex;
+    flex-direction: column;
+
+}
+#form-id{
+    position: relative;
+    left: 44%;
+}
+#form-deb{
+    position: relative;
+    left: 13%;
+}
+#form-fin{
+    position: relative;
+    left: 13%;
+}

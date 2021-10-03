@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+
+#partie_centrale{
+    display: flex;
+    flex-direction: column;
+
+}

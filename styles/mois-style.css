@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titre_vue_mois{
+    text-align: center;
+}
+#trois_objets_principaux{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#deux_boutons_bas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#choix_mois_annee {
+    font-size: 1.3em;
+    position: relative;
+    top: 20px;
+}
+#choix_mois_annee option{
+    font-size: 1.3em;
+}

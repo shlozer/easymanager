@@ -1,0 +1,9 @@
+#texte_footer{
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    color: rgb(48, 47, 47);
+    background: url("images/separateur-footer.png") repeat-x top; 
+    background-color:  rgb(243, 219, 154);
+    padding-top: 0.5em;
+}

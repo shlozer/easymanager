@@ -1,0 +1,53 @@
+#header_total{
+    display: flex;
+    flex-direction: column;
+    background: url("images/separateur-header.png") repeat-x bottom; 
+    background-color:  rgb(243, 219, 154);
+}
+
+
+#header1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#titre_header{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(48, 47, 47);
+    padding-bottom: 0em;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+    top: -15px;
+    /*max-width: 40%;*/
+}
+#bouton_gestion_users{
+    font-size: 1em;
+    position: relative;
+    top: 5px;
+}
+#bouton_gestion_users a{
+    color: black;
+}    
+
+#header_partie_droite{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+#bouton_deconnexion{
+    font-size: 1em;
+    z-index: 9999;
+    /*position: relative;
+    
+   top: 5px;*/
+    
+}
+#bouton_deconnexion a{
+    color: black;
+}    
